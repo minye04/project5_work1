@@ -48,3 +48,4 @@ git remote rm origin
 
 4. github 데이터 넣기
 git push -u origin 
+git push
