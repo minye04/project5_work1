@@ -44,3 +44,7 @@ git remote add origin https://github.com/minye04/project5_work1.git
 
 3. remote 삭제
 git remote rm 리모트이름
+git remote rm origin
+
+4. github 데이터 넣기
+git push -u origin 
